@@ -1,5 +1,5 @@
 # lantern-client
-The lantern using Flaschen Taschen Protocol
+The lantern using [Flaschen Taschen Protocol](https://github.com/hzeller/flaschen-taschen)
 
 ## Requirement
 ```
@@ -17,9 +17,9 @@ python main.py
 $ pip install -r requirements.txt
 ```
 
-## Licence
+## License
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[GPL-3.0](https://github.com/ayanasu-iot/lantern-client/blob/master/LICENSE)
 
 ## Author
 
