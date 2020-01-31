@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 
 ## License
 
-[GPL-3.0](https://github.com/ayanasu-iot/lantern-client/blob/master/LICENSE)
+See [LICENSE](https://github.com/ayanasu-iot/lantern-client/blob/master/LICENSE).
 
 ## Author
 
